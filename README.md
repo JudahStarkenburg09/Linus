@@ -1,6 +1,7 @@
 This Code Can Not Be Manipulated Or Copied
 ------------------------------------------------------
 THIS CODE BELONGS TO JUDAH STARKENBURG
+
 Rules for Functionability
 1. Do not remove the exe file from the Linus folder
 2. Do not remove any folders from the Linus folder
